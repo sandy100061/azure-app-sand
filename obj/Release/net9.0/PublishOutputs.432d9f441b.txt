@@ -1,0 +1,13 @@
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\azure-app-sand.exe
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\publish\web.config
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\appsettings.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\publish\appsettings.Development.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\publish\appsettings.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\publish\azure-app-sand.deps.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\publish\azure-app-sand.runtimeconfig.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\publish\azure-app-sand.staticwebassets.endpoints.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\azure-app-sand.dll
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\azure-app-sand.deps.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\azure-app-sand.runtimeconfig.json
+C:\Users\sandy\Projects\azure-app-sand\bin\Release\net9.0\publish\azure-app-sand.pdb

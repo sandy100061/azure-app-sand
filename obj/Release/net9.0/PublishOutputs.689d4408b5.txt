@@ -1,0 +1,7 @@
+C:\Users\sandy\Projects\azure-app-sand\publish\azure-app-sand.exe
+C:\Users\sandy\Projects\azure-app-sand\publish\appsettings.Development.json
+C:\Users\sandy\Projects\azure-app-sand\publish\appsettings.json
+C:\Users\sandy\Projects\azure-app-sand\publish\azure-app-sand.dll
+C:\Users\sandy\Projects\azure-app-sand\publish\azure-app-sand.deps.json
+C:\Users\sandy\Projects\azure-app-sand\publish\azure-app-sand.runtimeconfig.json
+C:\Users\sandy\Projects\azure-app-sand\publish\azure-app-sand.pdb
